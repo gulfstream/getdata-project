@@ -55,7 +55,7 @@ excluded as they are not strictly means of the feautures, but features composed 
 * Uses the gsub function to removes all the parantheses.
 * Uses the gsub function to replaces all the shorthand with longhand.
 
-##### 5.   From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+##### 5.   From the data set in step 4, creates a second, independent tidy data set with the average of each feature for each activity and each subject.
 
 * Opens the reshape2 library.
 * Creates a vector of all the column names from the data frame called varnames.
