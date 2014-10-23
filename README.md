@@ -6,10 +6,7 @@
 
 #### Script: run_analysis.R 
 
-*Before running the script contained in run_analysis.R, you will need to set 
-the directory that contains the Samsung data as your working directory: 
-
-setwd("filepath to your working directory")*
+*Before running the script contained in run_analysis.R, you will need to set the directory that contains the Samsung data as your working directory: setwd("filepath to your working directory")*
 
 ##### What the Script Does
 
@@ -43,9 +40,7 @@ setwd("filepath to your working directory")*
 1.3   Binds the training and test data frames into one data frame.
 
 
-##### 2.   Subsets the data frame to extract only the columns containing *measurements* of 
-     the mean and standard deviation for each feature (in addtion to the subject and 
-     activity columns). 
+##### 2.  Subsets the data frame to extract only the columns containing *measurements* of the mean and standard deviation for each feature (in addtion to the subject and activity columns). 
 
 (Note that the "features_info.txt" file that comes with the Samsung data lists mean, 
 standard deviation, and mean frequency as three distinct measurements of the feautres 
