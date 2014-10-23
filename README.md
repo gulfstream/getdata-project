@@ -1,11 +1,9 @@
 getdata-project
 ===============
 
-# Getting and Cleaning Data 
+## Getting and Cleaning Data 
 
-## Course Project
-
-### Script: run_analysis.R 
+### Course Project: run_analysis.R Script 
 
 *Before running the script contained in run_analysis.R, you will need to set the directory that contains the Samsung data as your working directory.*
 
