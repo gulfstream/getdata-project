@@ -6,7 +6,7 @@
 
 #### Script: run_analysis.R 
 
-*Before running the script contained in run_analysis.R, you will need to set the directory that contains the Samsung data as your working directory: setwd("filepath to your working directory")*
+*Before running the script contained in run_analysis.R, you will need to set the directory that contains the Samsung data as your working directory.*
 
 ##### What the Script Does
 
@@ -14,7 +14,7 @@
 
 1.1   Builds the training data frame.
 
-1.1.a Reads in the "features.txt" file as a data frame and subsets the second
+* Reads in the "features.txt" file as a data frame and subsets the second
       column containing the feature names as a character vector.
       
 1.1.b Reads in the "X_train.txt" file as a data frame.
