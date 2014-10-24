@@ -60,7 +60,7 @@ xy2$activity <- factor(xy2$activity, levels = 1:6, labels = c("walking",
                                                           "walking.downstairs", 
                                                           "sitting", 
                                                           "standing", 
-                                                          "saying"))
+                                                          "laying"))
 
 # 4. Appropriately label the data set with descriptive variable names.
 
