@@ -153,25 +153,25 @@ The names of the chosen variables were cleaned up in accordance with guidelines 
 
 [32] "time.body.gyrometer.jerk.standard.deviation.z" : *standard deviation of the z-axis, time domain, body gyrometer, jerk signal*
 
-[33] "time.body.acceleration.mag.mean" : *mean of the magnitude of the time domain, body acceleration signal*
+[33] "time.body.acceleration.magnitude.mean" : *mean of the magnitude of the time domain, body acceleration signal*
 
-[34] "time.body.acceleration.mag.standard.deviation" : *standard deviation of the magnitude of the time domain, body acceleration signal*
+[34] "time.body.acceleration.magnitude.standard.deviation" : *standard deviation of the magnitude of the time domain, body acceleration signal*
 
-[35] "time.gravity.acceleration.mag.mean" : *mean of the magnitude of the time domain, gravity acceleration signal*
+[35] "time.gravity.acceleration.mmagnitudeag.mean" : *mean of the magnitude of the time domain, gravity acceleration signal*
 
-[36] "time.gravity.acceleration.mag.standard.deviation" : *standard deviation of the magnitude of the time domain, gravity acceleration signal*
+[36] "time.gravity.acceleration.magnitude.standard.deviation" : *standard deviation of the magnitude of the time domain, gravity acceleration signal*
 
-[37] "time.body.acceleration.jerk.mag.mean" : *mean of the magnitude of the time domain, body acceleration, jerk signal*
+[37] "time.body.acceleration.jerk.magnitude.mean" : *mean of the magnitude of the time domain, body acceleration, jerk signal*
 
-[38] "time.body.acceleration.jerk.mag.standard.deviation" : *standard deviation of the magnitude of the time domain, body acceleration, jerk signal*
+[38] "time.body.acceleration.jerk.magnitude.standard.deviation" : *standard deviation of the magnitude of the time domain, body acceleration, jerk signal*
 
-[39] "time.body.gyrometer.mag.mean" : *mean of the magnitude of the time domain, body gyrometer signal*
+[39] "time.body.gyrometer.magnitude.mean" : *mean of the magnitude of the time domain, body gyrometer signal*
 
-[40] "time.body.gyrometer.mag.standard.deviation" : *standard deviation of the magnitude of the time domain, body gyrometer signal*
+[40] "time.body.gyrometer.magnitude.standard.deviation" : *standard deviation of the magnitude of the time domain, body gyrometer signal*
 
-[41] "time.body.gyrometer.jerk.mag.mean" : *mean of the magnitude of the time domain, body gyrometer signal*
+[41] "time.body.gyrometer.jerk.magnitude.mean" : *mean of the magnitude of the time domain, body gyrometer signal*
 
-[42] "time.body.gyrometer.jerk.mag.standard.deviation" : *standard deviation of the magnitude of the time domain, body gyrometer signal*
+[42] "time.body.gyrometer.jerk.magnitude.standard.deviation" : *standard deviation of the magnitude of the time domain, body gyrometer signal*
 
 [43] "frequency.body.acceleration.mean.x" : *mean of the x-axis, frequency domain, body acceleration signal*
 
@@ -209,9 +209,9 @@ The names of the chosen variables were cleaned up in accordance with guidelines 
 
 [60] "frequency.body.gyrometer.standard.deviation.z" : *standard deviation of the z-axis, frequency domain, body gyrometer signal*
 
-[61] "frequency.body.acceleration.mag.mean" : *mean of the magnitude of the frequency domain, body acceleration signal*
+[61] "frequency.body.acceleration.magnitude.mean" : *mean of the magnitude of the frequency domain, body acceleration signal*
 
-[62] "frequency.body.acceleration.mag.standard.deviation" : *standard deviation of the magnitude of the frequency domain, body acceleration signal*
+[62] "frequency.body.acceleration.magnitude.standard.deviation" : *standard deviation of the magnitude of the frequency domain, body acceleration signal*
 
 [63] "frequency.body.body.acceleration.jerk.magnitude.mean" : *mean of the magnitude of the frequency domain, body acceleration, jerk signal*
 
