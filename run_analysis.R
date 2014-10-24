@@ -102,7 +102,7 @@ names(xy2) <- gsub("fBodyAccMag", "frequency.body.acceleration.magnitude",
                    names(xy2))
 names(xy2) <- gsub("fBodyBodyGyroMag", 
                    "frequency.body.body.gyrometer.magnitude", names(xy2))
-names(xy2) <- gsub("Mag", ".mag", names(xy2))
+names(xy2) <- gsub("Mag", ".magnitude", names(xy2))
 names(xy2) <- gsub("mean", ".mean", names(xy2))
 names(xy2) <- gsub("std", ".standard.deviation", names(xy2))
 names(xy2) <- gsub("X", ".x", names(xy2))
